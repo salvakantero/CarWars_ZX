@@ -1,0 +1,33 @@
+       ========
+       Car Wars
+       ========
+
+versión ZX Spectrum 128k 
+   @salvaKantero 2016
+
+
+Como cada año, nuestro jefe nos propone una prueba automovilística con la que poner en práctica nuestros conocimientos de mecánica adquiridos en el taller.
+El premio es una paga extra. En esta ocasión has hecho los deberes y te has construido en tu tiempo libre un monoplaza que nada tiene que envidiar a un F1!
+Pero las etapas que tendrás que superar han sido localizadas y diseñadas para acabar con la paciencia del más rápido de los pilotos.
+
+Atropella los tiles informativos que encuentres en tu camino para obtener la ayuda necesaria durante el juego.
+Buena suerte… y a correr!
+
+Secciones del marcador
+======================
+
+POW: 99 puntos de energía disponible. Evita llegar a 0!
+COI: Monedas disponibles para recoger en la etapa.
+WEA: Se dispone del arma cuando se muestra el icono.
+OBJ: Se dispone del objeto cuando se muestra el icono.
+
+
+Programación:	salvaKantero
+Gráficos:		salvaKantero
+Música:		Davidian
+
+Agradecimientos:
+Dany Cantero (@dcamon) - Traducciones.
+Na Than (@nath_mojon) - Soporte técnico.
+Felipe Monge (@vakapp) - Relaciones públicas.
+elmundodelspectrum.com (@mundospectrum) – Preview y propuestas de mejora

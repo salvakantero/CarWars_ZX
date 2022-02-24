@@ -1,0 +1,21 @@
+Evita el contacto con los vehiculos en marcha y aparcados. Cada golpe te restara un punto de energia. 
+Algunos objetos son empujables. Muevelos para acceder a determinados lugares y bloquear enemigos.
+Consigue monedas para entrar en el taller y equipar tu vehiculo con armas. Asi podras eliminar a tus oponentes.
+Los enemigos voladores no estan a tu alcance. No pueden ser destruidos. Alejate de ellos.
+Piensa un poco antes de resolver algunos puzzles para no quedar atrapado. Tambien puedes tomar rutas alternativas.
+Solo puedes entrar aqui si ya tienes armas y al menos 35 monedas para comprar una tarjeta de peaje.
+Solo puedes entrar aqui si tienes al menos 35 monedas para equipar tu vehiculo con un atrapamoscas superpegajoso ACME.
+Consigue 25 monedas para convencer al se]or guardia de que te deje pasar. Tu ya me entiendes.
+Elimina a tus oponentes en tierra. Te proporcionaran monedas extra necesarias para terminar la etapa.
+Con esta tarjeta podras superar la barrera final. Ya casi lo has conseguido...
+Compra en nuestra tienda la tarjeta de peaje necesaria para abrir la barrera y terminar la etapa.
+Ademas de las monedas, intenta coger todas las recargas de energia posibles para asegurarte el exito.
+Solo puedes entrar aqui si tienes al menos 40 monedas para equipar tu vehiculo con un iman ultrapotente ACME.
+Solo puedes entrar aqui si ya tienes armas y al menos 50 monedas para comprar un hacha gigante ACME.
+Compra en nuestra tienda un hacha, necesaria para desbloquear el camino y terminar la etapa.
+Con este hacha podras romper la barrera final. Ya casi has conseguido llegar a la ultima etapa.
+Solo puedes entrar aqui si tienes al menos 35 monedas para equipar tu vehiculo con el taladro percutor ACME.
+Solo puedes entrar aqui si ya tienes armas y al menos 55 monedas para comprar un lanzallamas ACME.
+Compra en nuestra tienda un lanzallamas con el que derretir los obstaculos del camino y terminar el juego.
+Con este lanzallamas podras derretir el obstaculo final. Ya casi has conseguido finalizar el juego.
+Utiliza los tuneles para moverte rapidamente entre diferentes zonas del trazado.

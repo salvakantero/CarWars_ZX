@@ -1,0 +1,21 @@
+Avoid contact with moving and parked vehicles. Each hit will subtract you energy.
+Some objects are pushable.           Move them to access some areas and block enemies.
+Get coins to enter the garage and equip your vehicle with weapons just to eliminate your opponents.
+Flying enemies are not accessible and can"t be destroyed.                      Stay away from them.
+Think a while before resolving some puzzles not to get caught. You can also take alternative routes.
+You can only enter here if you already have weapons and at least 35 coins to buy a toll card.
+You can only enter here if you have at least 35 coins to equip your vehicle with an ACME supersticky flytrap.
+Get 25 coins to convince the police officer to let you go.                  You know...
+Eliminate your opponents on the ground. They will provide you the necessary extra coins to finish the stage.
+With this card you can overcome the final barrier.                             You almost got it...
+You can purchase in our store the required toll card to open the barrier and finish the stage.
+Besides the coins, try to take all possible energy refills to ensure success.
+You can only enter here if you have at least 40 coins to equip your vehicle with an ACME ultrapowerful magnet.
+You can only enter here if you already have weapons and at least 50 coins to buy an ACME giant axe.
+You can purchase an axe in our store, It"s required to unlock the way and to finish the stage.
+You can break the final barrier with this axe. You almost reached the last stage.
+You can only enter here if you have at least 35 coins to equip your vehicle with an ACME hammer drill.
+You can only enter here if you already have weapons and at least 55 coins to buy an ACME flamethrower.
+You can purchase a flamethrower to melt the way"s obstacles and to finish the game.
+You can melt the final obstacle with this flamethrower. You almost completed the game.
+Use the tunnels to move yourself fast between the      different areas of the track.
