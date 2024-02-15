@@ -31,3 +31,6 @@ Dany Cantero (@dcamon) - Traducciones.
 Na Than (@nath_mojon) - Soporte técnico.
 Felipe Monge (@vakapp) - Relaciones públicas.
 elmundodelspectrum.com (@mundospectrum) – Preview y propuestas de mejora
+
+
+CAR WARS está publicado bajo licencia GPL v2 para todos los componentes de software (ver license.txt).
